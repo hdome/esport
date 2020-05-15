@@ -1,8 +1,10 @@
 import coc
+
 import traceback
 import discord
 
 from discord.ext import commands
+
 from riotwatcher import LolWatcher, ApiError
 
 # Read info at Discord Developer Portal and Clash of Clans Developer Portal before use!
